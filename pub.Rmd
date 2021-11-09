@@ -1,0 +1,51 @@
+---
+title: "Publications"
+site: distill::distill_website
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Model Emulation
+
+A Bolt, C Houston, JJ Dabrowski, PM Kuhnert (2021) An emulation framework for fire front spread, Machine Learning and the Physical Sciences, NeurIPS 2021.
+
+D MacKinlay, D Pagendam, T Cui, PM Kuhnert, D Robertson, S Janardhanan (2021) Model inversion for spatio-temporal processes using the fourier neural operator, Machine Learning and the Physical Sciences, NeurIPS 2021.
+
+
+### Visualisation
+
+LR Lucchesi, PM Kuhnert, CK Wikle (2021) Vizumap: an R package for visualising uncertainty in spatial data, Journal of Open Source Software 6 (59), 2409.
+[https://joss.theoj.org/papers/10.21105/joss.02409]
+
+### Uncertainty quantification \& decision-making
+
+MC Quigley, LG Bennetts, P Durance, PM Kuhnert et al. (2019) The provision and utility of earth science to decision-makers: synthesis and key findings, Environment Systems and Decisions 39 (3), 349-367.
+[https://strathprints.strath.ac.uk/69617/1/Quigley_etal_ESD_2019_The_provision_and_utility_of_earth_science_to_decision_makers.pdf]
+
+MC Quigley, LG Bennetts, P Durance, PM Kuhnert et al. (2019) The provision and utility of science and uncertainty to decision-makers: earth science case studies, Environment Systems and Decisions 39 (3), 307-348.
+[https://link.springer.com/article/10.1007/s10669-019-09728-0]
+
+PM Kuhnert et al. (2018) Making management decisions in the face of uncertainty: a case study using the Burdekin catchment in the Great Barrier Reef, Marine and Freshwater Research.
+[https://doi.org/10.1071/MF17237]
+
+### Great Barrier Reef pollutant load modelling
+
+DW Gladish, PM Kuhnert et al. (2016) Spatio-temporal assimilation of modelled catchment loads with monitoring data in the Great Barrier Reef, The Annals of Applied Statistics 10 (3), 1590-1618.
+[https://www.jstor.org/stable/43956894?seq=1#metadata_info_tab_contents]
+
+Kuhnert et al. (2012) Quantifying total suspended sediment export from the Burdekin River catchment using the loads regression estimator tool, Water Resources Research, 48.
+[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011WR011080]
+[LRE R Package: https://github.com/pkuhnert/LRE]
+
+### Physical-Statistical modelling
+
+Kuhnert, P.M. (2014) Physical-statistical modelling, Environmetrics, 202-201.
+[https://onlinelibrary.wiley.com/doi/10.1002/env.2276]
+
+### Compositional data
+
+Kuhnert et al. (2012) Predicting fish diet composition using a bagged classification tree approach: a case study using yellowfin tuna (Thunnus albacares), Marine biology 159 (1), 87-100.
+[https://link.springer.com/article/10.1007/s00227-011-1792-6]

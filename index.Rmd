@@ -1,0 +1,29 @@
+---
+title: "Petra Kuhnert"
+description: |
+  Data Science . Machine Learning . Visualisation . Science Communication
+site: distill::distill_website
+
+---
+
+### I am a Data Scientist in CSIRO's Data61. I am also a Mum of two boys and a military spouse who is currently working her way around the country enjoying everything about Australia and its people.  
+
+### Next Destination: Brisbane in 2022!
+
+```{r, fig.align='center', out.width='80%', echo = FALSE}
+knitr::include_graphics("images/petra_family.jpg")
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+

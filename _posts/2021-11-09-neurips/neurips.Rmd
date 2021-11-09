@@ -1,0 +1,23 @@
+---
+title: "NeurIPS"
+description: |
+  A short description of the post.
+author:
+  - name: Petra Kuhnert
+date: 2021-11-09
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Watch this space!
+
+```{r, fig.align='center', out.width='20%'}
+knitr::include_graphics("images/worksign.png")
+```
+

@@ -1,0 +1,27 @@
+---
+title: "Hybrid Prediction"
+site: distill::distill_website
+
+---
+  
+ 'Hybrid Prediction' is a term in data science that reflects the integration
+ of all sources of information and knowledge from a domain problem into an analytics framework to
+ produce more accurate predictions a and methods for uncertainty quantification that
+ translate into more confident and pragmatic decision-making.
+ 
+ Information and knowledge can be characterised by a physical model of the processes but
+ these can be slow to run and complicated to represent and communicate.
+ 
+ Emulators are an approach that attempt to mimic a physical model using machine learning (ML). 
+ ML and in particular neural networks are good at capturing complex relationships and dynamical 
+ representations that form the physical nature of these domain problems.  The concept involves
+ constructing a ML model from the mapping of the inputs to the outputs from the model through
+ carefully constructed simulations that attempt to span the parameter space of likely input
+ combinations.
+ 
+ A robust emulator has the capacity to be used in an inference setting to form predictions for
+ specific 'what-if' scenarios and quantify the uncertainty of the predictions to inform decision-makers.
+ 
+ To find out more: https://research.csiro.au/mlai-fsp/activities/hybrid-prediction/
+  
+ 

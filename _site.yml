@@ -1,0 +1,25 @@
+name: "Petras_Website"
+title: "Petra Kuhnert"
+description: |
+  Petra's Website
+base_url: https://www.csiro.au
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Publications"
+      href: pub.html      
+    - text: "Projects"
+      menu:
+      - text: "Hybrid Prediction"
+        href: hp.html      
+    - text: "Blog"
+      href: blog.html
+    - icon: fab fa-github
+      href: https://github.com/pkuhnert
+
+
+output: distill::distill_article

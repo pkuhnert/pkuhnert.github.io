@@ -1,0 +1,45 @@
+---
+title: "Petra Kuhnert"
+image: "petra.jpg"
+ 
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/petra-kuhnert/"
+  - label: Twitter
+    url: "https://twitter.com/petra_kuhnert"
+  - label: GitHub
+    url: "https://github.com/pkuhnert"
+  - label: Email
+    url: "mailto:Petra.Kuhnert@data61.csiro.au"
+output:
+  postcards::trestles
+---
+  
+
+## Bio
+  
+I am a Data Scientist in CSIRO's Data61 and lead the Hybrid Prediction Activity in CSIRO's Machine Learning and Artificial Intelligence Future Science Platform (MLAI FSP). 
+
+I have a PhD in applied statistics, focussing on quantifying and communicating uncertainty to decision-makers, the development of non-linear space-time analytics that utilises machine learning algorithms for environmental problems, and developing emulation approaches for speeding up slow running process models.
+
+I really enjoy creating new visualisations to explore and understand data. I think visualisation is the key to understanding complex data and can lead to more trusted datasets and analyses.
+
+I am part of the STEM professionals in schools program and enjoy interacting with schools to get students interested in mathematics, statistics and computing. 
+
+## Education
+
+**Queensland University of Technology** | Brisbane, QLD AUSTRALIA
+
+Ph.D. in Statistics | 2003
+
+B.App.S. Honours (1st Class) in Statistics | 1994
+
+B.App.S. in Mathematics | 1993
+
+## Experience
+
+**CSIRO's Data61** | Principal Research Scientist | 2005 - Present
+
+**Environmental Protection Agency** | Senior Statistician | 2004-2005
+
+**The University of Queensland** | Postdoctoral Research Fellow | 2002-2004
