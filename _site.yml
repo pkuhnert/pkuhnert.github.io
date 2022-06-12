@@ -16,8 +16,6 @@ navbar:
       menu:
       - text: "Hybrid Prediction"
         href: hp.html      
-    - text: "Blog"
-      href: blog.html
     - icon: fab fa-github
       href: https://github.com/pkuhnert
 

@@ -6,12 +6,11 @@ site: distill::distill_website
 
 ---
 
-### I am a Data Scientist in CSIRO's Data61. I am also a Mum of two boys and a military spouse who is currently working her way around the country enjoying everything about Australia and its people.  
+### I am a Principal Research Scientist in the Analytics and Decision Sciences Program in CSIRO's Data61. I enjoy working on applied research problems in the environmental sciences and love finding  solutions to real world problems using statistics, machine learning and computing.
 
-### Next Destination: Brisbane in 2022!
 
 ```{r, fig.align='center', out.width='80%', echo = FALSE}
-knitr::include_graphics("images/petra_family.jpg")
+knitr::include_graphics("images/cartoon.jpg")
 ```
 
 

@@ -8,17 +8,28 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+The following are just a selection of my publications.  For a complete listing, please visit my [ORCID](https://orcid.org/0000-0001-9070-0091).
+
 ### Model Emulation
 
-A Bolt, C Houston, JJ Dabrowski, PM Kuhnert (2021) An emulation framework for fire front spread, Machine Learning and the Physical Sciences, NeurIPS 2021.
+A Bolt, C Houston, JJ Dabrowski, PM Kuhnert (2021) An emulation framework for fire front spread, Machine Learning and the Physical Sciences, NeurIPS 2021. [https://arxiv.org/abs/2203.12160]
 
-D MacKinlay, D Pagendam, T Cui, PM Kuhnert, D Robertson, S Janardhanan (2021) Model inversion for spatio-temporal processes using the fourier neural operator, Machine Learning and the Physical Sciences, NeurIPS 2021.
+D MacKinlay, D Pagendam, T Cui, PM Kuhnert, D Robertson, S Janardhanan (2021) Model inversion for spatio-temporal processes using the fourier neural operator, Machine Learning and the Physical Sciences, NeurIPS 2021.[https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_8.pdf]
+
+### ML and Remote Sensing
+
+M Wellington, P Kuhnert, L Renzullo and R Lawes (2022) Modelling within-season variation in light use efficiency enhances productivity estimates for cropland, Remote Sensing, 14, DOI: 10.3390, [https://www.mdpi.com/2072-4292/14/6/1495#]
 
 
 ### Visualisation
 
 LR Lucchesi, PM Kuhnert, CK Wikle (2021) Vizumap: an R package for visualising uncertainty in spatial data, Journal of Open Source Software 6 (59), 2409.
 [https://joss.theoj.org/papers/10.21105/joss.02409]
+
+Nelson, Sam, Lucchesi, Lydia, Petra Kuhnert (2022) VizumApp: A Shiny App for visualizing uncertainty in spatial data using the Vizumap R package, DOI: 102.100.100/439688.
+[https://data.csiro.au/collection/csiro:54870]
+
+Link to the VizumApp Shiny App is [here](https://shiny.csiro.au/VizumApp/)
 
 ### Uncertainty quantification \& decision-making
 
