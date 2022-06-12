@@ -1,6 +1,6 @@
 ---
 title: "Petra Kuhnert"
-image: "image/petra.JPG"
+image: "images/petra.JPG"
  
 links:
   - label: LinkedIn
