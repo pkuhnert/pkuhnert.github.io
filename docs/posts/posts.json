@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2022-06-16-we-went-to-mars/",
+    "title": "We went to MARS!",
+    "description": "Highlights from the Hybrid Prediction Activity at MARS 2022.",
+    "author": [
+      {
+        "name": "Petra Kuhnert",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-16",
+    "categories": [],
+    "contents": "\r\nThe MARS 2022 is the annual conference of the Machine Learning and Artificial Intelligence (MLAI) Future Science Platform (FSP). It showcases the research from all of the activities in the MLAI FSP. This was the third conference for the FSP and it was a hybrid event which meant that some of us were able to meet up in person for the very first time. We finally met all of the postdocs and they all got to meet each other. More importantly we got to see how tall we all were!\r\nThe Hybrid work was showcased in a session that discussed some of the work we are doing with the CSIRO Business units and we explored the topic of decision-making when faced with complex and unpredictable environmental events like fires.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-06-16T00:57:14+10:00",
+    "input_file": {}
+  }
+]

@@ -5,8 +5,6 @@ image: "../images/petra.JPG"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/petra-kuhnert/"
-  - label: Twitter
-    url: "https://twitter.com/petra_kuhnert"
   - label: GitHub
     url: "https://github.com/pkuhnert"
   - label: Email
@@ -17,14 +15,16 @@ output:
   
 
 ## Bio
-  
-I am a Data Scientist in CSIRO's Data61 and lead the Hybrid Prediction Activity in CSIRO's Machine Learning and Artificial Intelligence Future Science Platform (MLAI FSP). 
 
-I have a PhD in applied statistics, focussing on quantifying and communicating uncertainty to decision-makers, the development of non-linear space-time analytics that utilises machine learning algorithms for environmental problems, and developing emulation approaches for speeding up slow running process models.
+I am the Associate Science Director for University Engagement and a Senior Research Scientist in Data61, where I tackle a wide range of applied problems with innovative solutions. 
 
-I really enjoy creating new visualisations to explore and understand data. I think visualisation is the key to understanding complex data and can lead to more trusted datasets and analyses.
+I hold a PhD in statistics and have been recognised as a recipient of the APAC Women in AI Awards for the Environment and Biodiversity category, and first runner-up for Innovator of the Year for my innovated methods developed for monitoring the status and trends of pollutants in the Great Barrier Reef. 
 
-I am part of the STEM professionals in schools program and enjoy interacting with schools to get students interested in mathematics, statistics and computing. 
+I am passionate about science communication and developing methodologies that are relevant to solving real-world problems. My work focuses on creating data workflows that deliver trusted scientific outputs, often using visualisations as a medium to communicate findings. 
+
+I have supervised several students and postdoctoral research fellows and hold adjunct appointments at the School of Computer Science at the Australian National University and the School of Mathematical Sciences at Queensland University of Technology. I am passionate about providing unique STEM opportunities for women.
+
+
 
 ## Education
 
@@ -38,7 +38,11 @@ B.App.S. in Mathematics | 1993
 
 ## Experience
 
-**CSIRO's Data61** | Principal Research Scientist | 2005 - Present
+**CSIRO's Data61** | Associate Science Director – University Engagement & Senior Principal Research Scientist | 2023 - Present
+
+**CSIRO's Data61** | Group Leader, Statistical Machine Learning | 2022-2023
+
+**CSIRO's Data61** | Principal Research Scientist | 2005 - 2023
 
 **Environmental Protection Agency** | Senior Statistician | 2004-2005
 

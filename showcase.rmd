@@ -1,0 +1,7 @@
+---
+title: "Events"
+site: distill::distill_website
+listing:
+  posts:
+    - 2022-06-16-we-went-to-mars
+---

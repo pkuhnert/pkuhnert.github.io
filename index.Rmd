@@ -6,7 +6,9 @@ site: distill::distill_website
 
 ---
 
-### I am a Principal Research Scientist in the Analytics and Decision Sciences Program in CSIRO's Data61. I enjoy working on applied research problems in the environmental sciences and love finding  solutions to real world problems using statistics, machine learning and computing.
+### I am the Associate Science Director for University Engagement and Senior Research Scientist at CSIRO's Data61, with a PhD in applied statistics. My work focuses on quantifying and communicating uncertainty to decision-makers, developing non-linear space-time analytics that leverage machine learning algorithms for environmental and agricultural challenges, and creating innovative solutions to speed up slow-running process models.
+
+### I am passionate about fostering the next generation of researchers in applied fields, combining mentorship with leadership to help shape innovative and impactful careers. I also enjoy designing visualisations to explore and understand complex data, believing that effective visual communication is key to building trust in datasets, analyses, and decision-making processes.
 
 
 ```{r, fig.align='center', out.width='80%', echo = FALSE}

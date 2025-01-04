@@ -15,7 +15,9 @@ navbar:
     - text: "Projects"
       menu:
       - text: "Hybrid Prediction"
-        href: hp.html      
+        href: hp.html  
+    - text: "Showcase"
+      href: showcase.html      
     - icon: fab fa-github
       href: https://github.com/pkuhnert
 
