@@ -23,8 +23,8 @@ M Wellington, P Kuhnert, L Renzullo and R Lawes (2022) Modelling within-season v
 
 ### Visualisation
 
-Lydia R. Lucchesi, Petra M. Kuhnert, Jenny L. Davis, Lexing Xie. 2022. Smallset Timelines: A Visual Representation of Data Preprocessing Decisions, In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22), June 21–24, 2022, Seoul, Republic of Korea. ACM, New York, NY, USA, 23 pages. 
- https://arxiv.org/abs/2206.04875
+Lydia R. Lucchesi, Petra M. Kuhnert, Jenny L. Davis, Lexing Xie. 2022. Smallset Timelines: A Visual Representation of Data Preprocessing Decisions, In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22), June 21–24, 2022, Seoul, Republic of Korea. ACM, New York, NY, USA, 23 pages,
+[https://ieeecai.org/2024/wp-content/pdfs/540900b205/540900b205.pdf]
 
 
 Nelson, Sam, Lucchesi, Lydia, Petra Kuhnert (2022) VizumApp: A Shiny App for visualizing uncertainty in spatial data using the Vizumap R package, DOI: 102.100.100/439688.
@@ -34,8 +34,6 @@ Link to the VizumApp Shiny App is [here](https://shiny.csiro.au/VizumApp/)
 
 LR Lucchesi, PM Kuhnert, CK Wikle (2021) Vizumap: an R package for visualising uncertainty in spatial data, Journal of Open Source Software 6 (59), 2409.
 [https://joss.theoj.org/papers/10.21105/joss.02409]
-
-
 
 
 ### Uncertainty quantification \& decision-making
