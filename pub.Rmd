@@ -16,15 +16,25 @@ A Bolt, C Houston, JJ Dabrowski, PM Kuhnert (2021) An emulation framework for fi
 
 D MacKinlay, D Pagendam, T Cui, PM Kuhnert, D Robertson, S Janardhanan (2021) Model inversion for spatio-temporal processes using the fourier neural operator, Machine Learning and the Physical Sciences, NeurIPS 2021.[https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_8.pdf]
 
-### ML and Remote Sensing
+### Agricultural modelling
 
 M Wellington, P Kuhnert, L Renzullo and R Lawes (2022) Modelling within-season variation in light use efficiency enhances productivity estimates for cropland, Remote Sensing, 14, DOI: 10.3390, [https://www.mdpi.com/2072-4292/14/6/1495#]
 
 
+M Wellington, P Kuhnert, and R Lawes, (2023) Rapid monitoring of cropland primary productivity and shipping activity in Ukraine, PLOS one, 18, DOI: e0286637,
+[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286637]
+
+M Wellington, P Kuhnert, R Lawes, L Renzullo, J Pittock et al. (2023) Decoupling crop production from water consumption at some irrigation schemes in southern Africa, Agricultural Water Management, 284, 30, 108358,
+[https://www.sciencedirect.com/science/article/pii/S0378377423002238#:~:text=In%20summary%2C%20decoupling%20of%20crop,result%20in%20increased%20water%20demands.]
+
+### Responsible AI
+
+C Sanderson, E Schleiger, D Douglas, P Kuhnert and Q Lu (2024) Resolving ethics trade-offs in implementing responsible AI, 2024 IEEE Conference on Artificial Intelligence (CAI), 25-27 June, Singapore, [10.1109/CAI59869.2024.00215]https://ieeecai.org/2024/wp-content/pdfs/540900b205/540900b205.pdf
+
 ### Visualisation
 
 Lydia R. Lucchesi, Petra M. Kuhnert, Jenny L. Davis, Lexing Xie. 2022. Smallset Timelines: A Visual Representation of Data Preprocessing Decisions, In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22), June 21–24, 2022, Seoul, Republic of Korea. ACM, New York, NY, USA, 23 pages,
-[https://ieeecai.org/2024/wp-content/pdfs/540900b205/540900b205.pdf]
+[https://dl.acm.org/doi/abs/10.1145/3531146.3533175]
 
 
 Nelson, Sam, Lucchesi, Lydia, Petra Kuhnert (2022) VizumApp: A Shiny App for visualizing uncertainty in spatial data using the Vizumap R package, DOI: 102.100.100/439688.
@@ -34,6 +44,10 @@ Link to the VizumApp Shiny App is [here](https://shiny.csiro.au/VizumApp/)
 
 LR Lucchesi, PM Kuhnert, CK Wikle (2021) Vizumap: an R package for visualising uncertainty in spatial data, Journal of Open Source Software 6 (59), 2409.
 [https://joss.theoj.org/papers/10.21105/joss.02409]
+
+### Spatio-temporal modelling
+
+M Wellington, R Lawes, and P Kuhnert (2023) A framework for modelling spatio-temporal trends in crop production using generalized additive models, Computers and Electronics in Agriculture, 212, 108111.
 
 
 ### Uncertainty quantification \& decision-making

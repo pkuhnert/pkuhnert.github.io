@@ -12,7 +12,7 @@
       "title": "Events",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-01-04T22:23:33+10:00"
+      "last_modified": "2025-01-06T22:24:48+10:00"
     },
     {
       "path": "hp.html",
@@ -40,7 +40,7 @@
       "path": "README.html",
       "author": [],
       "contents": "\r\n“# Petras_Website”\r\n\r\n\r\n",
-      "last_modified": "2025-01-04T22:23:34+10:00"
+      "last_modified": "2025-01-06T22:24:48+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
